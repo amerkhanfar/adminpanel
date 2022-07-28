@@ -1,0 +1,11 @@
+cto push code:
+1- git init (create local repo)
+2- git add .(add files to repo)
+3-git status 
+4- git commit -m '' 
+5-git remote add origin (link)
+6-git push -u origin master
+7-git pull origin master
+8- git clone url
+
+fork clone
